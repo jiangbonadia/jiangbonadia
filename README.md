@@ -11,10 +11,10 @@
 
 🙋‍♀️ My past presentations / events
 
-- Co-Chair or Core Organizer，COSCon'20-22 China Open-Source Conference
+- Co-Chair or Core Organizer，COSCon'20-23 China Open-Source Conference
 - Host, APSARA Conference 2021
 - Panel Host, Why VCs invest in open source commercial companies, APSARA Conference 2021
-- Core Organizer, OSCAR OpenSource Conference'21-22
+- Core Organizer, OSCAR OpenSource Conference'21-23
 - Founder，Dev.Together Summit'21-23
 - Core Organizer, ApacheCon Asia'21-23
 - Core Organizer, OpenInfra Days China'21-23
@@ -22,3 +22,5 @@
 - Co-Chair，OSPO Summit 2022
 - Speaker，How we build SegmentFault? In an open-source way, ApacheCon Asia 2022
 - Panel Host, Apache Success in China, ApacheCon Asia 2022
+- Speaker, DevRelCon London 2023 - host by Hoopy
+- Speaker, State of Open Con 2024 - host by OpenUK
