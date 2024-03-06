@@ -9,6 +9,8 @@
 - 💞️ Feel free to contact me to discuss DevRel, Community Development, Open Source and other related topics.
 - 📫 Ping me by Email：nadia.jiangbo@gmail.com
 
+-----------
+
 🙋‍♀️ **My Community Roles**
 
 -   COO of [@SegmentFault](https://github.com/segmentfault)
