@@ -9,7 +9,7 @@
 - 💞️ Feel free to contact me to discuss DevRel, Community Development, Open Source and other related topics.
 - 📫 Ping me by Email：nadia.jiangbo@gmail.com
 
-🙋‍♀️ My Community Roles
+🙋‍♀️ **My Community Roles**
 
 -   COO of [@SegmentFault](https://github.com/segmentfault)
 -   Co-founder of [@Apache Answer(Incubating)](https://github.com/answerdev/answer)
@@ -18,7 +18,7 @@
 -   Deputy Secretary of the Chance Open-Source Foundation, Member of Apache Local Community - Beijing & Hangzhou Chapter
 
 
-🙋‍♀️ My presentations / events
+🙋‍♀️ **My presentations / events**
 
 - Co-Chair or Core Organizer，COSCon'20-23 China Open-Source Conference
 - Host, APSARA Conference 2021
