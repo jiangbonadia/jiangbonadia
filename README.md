@@ -1,11 +1,6 @@
 👋 Hi, I’m @jiangbonadia, welcome to my zone.
 
 - 👩‍💻 I’m an open source enthusiast
--   COO of [@SegmentFault](https://github.com/segmentfault)
--   Co-founder of [@Apache Answer(Incubating)](https://github.com/answerdev/answer)
--   Board member & 2024 President of [@KAIYUANSHE](https://github.com/kaiyuanshe)
--   Member of China Computer Federation (CCF) Open-Source Committee, China Institute of Communications (CIC) Open-Source Committee and China Association for Science and Technology (CAST) Open Source Communication Working Committee
--   Deputy Secretary of the Chance Open-Source Foundation, Member of Apache Local Community - Beijing & Hangzhou Chapter
 - 👀 I’m interested in **community development** and **open-source culture**.
 - 💃 I’m a part-time MBAer studying at Peking Universty & LSE.In my spare time, I enjoy dancing, ice-skating, and hiking.
 - 🌎 I currently base in China but travelling around the world.
@@ -13,6 +8,15 @@
 - ⚡ Main projects: **answerdev/answer**
 - 💞️ Feel free to contact me to discuss DevRel, Community Development, Open Source and other related topics.
 - 📫 Ping me by Email：nadia.jiangbo@gmail.com
+
+🙋‍♀️ My Community Roles
+
+-   COO of [@SegmentFault](https://github.com/segmentfault)
+-   Co-founder of [@Apache Answer(Incubating)](https://github.com/answerdev/answer)
+-   Board member & 2024 President of [@KAIYUANSHE](https://github.com/kaiyuanshe)
+-   Member of China Computer Federation (CCF) Open-Source Committee, China Institute of Communications (CIC) Open-Source Committee and China Association for Science and Technology (CAST) Open Source Communication Working Committee
+-   Deputy Secretary of the Chance Open-Source Foundation, Member of Apache Local Community - Beijing & Hangzhou Chapter
+
 
 🙋‍♀️ My presentations / events
 
