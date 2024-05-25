@@ -24,7 +24,7 @@
 
 - Co-Chair or Core Organizer，COSCon'20-23 China Open-Source Conference
 - Host, APSARA Conference 2021
-- Panel Host, Why VCs invest in open source commercial companies, APSARA Conference 2021
+- Panel Moderator, Why VCs invest in open source commercial companies, APSARA Conference 2021
 - Core Organizer, OSCAR OpenSource Conference'21-23
 - Founder，Dev.Together Summit'21-24
 - Core Organizer, ApacheCon Asia'21-24
