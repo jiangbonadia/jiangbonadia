@@ -11,11 +11,16 @@
 
 -----------
 
+🙋‍♀️ **My Day Job**
+
+-   Head of Open Source Growth at [@AntGroup](https://github.com/antgroup)
+
+
 🙋‍♀️ **My Community Roles**
 
--   COO of [@SegmentFault](https://github.com/segmentfault)
+-   ex-COO & long-term contributor of [@SegmentFault](https://github.com/segmentfault)
 -   Co-founder of [@Apache Answer(Incubating)](https://github.com/answerdev/answer)
--   Board member & 2024 President of [@KAIYUANSHE](https://github.com/kaiyuanshe)
+-   Board Chair of [@KAIYUANSHE](https://github.com/kaiyuanshe)
 -   Member of China Computer Federation (CCF) Open-Source Committee, China Institute of Communications (CIC) Open-Source Committee and China Association for Science and Technology (CAST) Open Source Communication Working Committee
 -   Deputy Secretary of the Chance Open-Source Foundation, Member of Apache Local Community - Beijing & Hangzhou Chapter
 
@@ -36,4 +41,6 @@
 - Speaker, DevRelCon London 2023 - host by Hoopy
 - Speaker, State of Open Con 2024 - host by OpenUK
 - Speaker, CommunityOverCode EU 2024
-- Track Chair, CommunityOverCode NA 2024
+- Track Chair & Speaker, CommunityOverCode NA 2024
+- Speaker, Open Source Summit China 2024
+- Speaker, Linux Foundation Member Summit 2024
