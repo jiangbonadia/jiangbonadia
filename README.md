@@ -1,6 +1,6 @@
 👋 Hi, I’m @jiangbonadia, welcome to my zone.
 
-- 👩‍💻 I’m an open source enthusiast
+- 👩‍💻 I’m an open source enthusiast, **GitHub Star**. 
 - 👀 I’m interested in **community development** and **open-source culture**.
 - 💃 I’m a part-time MBAer studying at Peking Universty & LSE.In my spare time, I enjoy dancing, ice-skating, and hiking.
 - 🌎 I currently base in China but travelling around the world.
@@ -14,6 +14,7 @@
 🙋‍♀️ **My Day Job**
 
 -   Head of Open Source Growth at [@AntGroup](https://github.com/antgroup)
+-   Head of Growth and Ecosystem at [@Robbyant](https://github.com/robbyant)
 
 
 🙋‍♀️ **My Community Roles**
