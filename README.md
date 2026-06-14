@@ -19,16 +19,16 @@
 
 🙋‍♀️ **My Community Roles**
 
--   ex-COO & long-term contributor of [@SegmentFault](https://github.com/segmentfault)
--   Co-founder of [@Apache Answer(Incubating)](https://github.com/answerdev/answer)
--   Board Chair of [@KAIYUANSHE](https://github.com/kaiyuanshe)
+-   Member of [Apache Software Foundation](https://github.com/apache)), Co-Chair of Community over Code - The ASF Conference Asia
+-   Member of Apache Local Community - Beijing & Hangzhou Chapter
+-   Co-founder of [Apache Answer](http://github.com/apache/answer)
 -   Member of China Computer Federation (CCF) Open-Source Committee, China Institute of Communications (CIC) Open-Source Committee and China Association for Science and Technology (CAST) Open Source Communication Working Committee
--   Deputy Secretary of the Chance Open-Source Foundation, Member of Apache Local Community - Beijing & Hangzhou Chapter
+-   ex-COO of [@SegmentFault](https://github.com/segmentfault)
 
 
 🙋‍♀️ **My presentations / events**
 
-- Co-Chair or Core Organizer，COSCon'20-23 China Open-Source Conference
+- Co-Chair or Core Organizer，COSCon'20-26 China Open-Source Conference
 - Host, APSARA Conference 2021
 - Panel Moderator, Why VCs invest in open source commercial companies, APSARA Conference 2021
 - Core Organizer, OSCAR OpenSource Conference'21-23
