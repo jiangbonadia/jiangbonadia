@@ -1,7 +1,7 @@
 👋 Hi, I’m @jiangbonadia, welcome to my zone.
 
 - 👩‍💻 I’m an open source enthusiast, **GitHub Star**. 
-- 👀 I’m interested in **community development** and **open-source culture**.
+- 👀 I’m interested in **community development** and **ogrowth**.
 - 💃 I’m a part-time MBAer studying at Peking Universty & LSE.In my spare time, I enjoy dancing, ice-skating, and hiking.
 - 🌎 I currently base in China but travelling around the world.
 - 🎆 I am passionate about organizing various developer events. I am a core organizer of **ApacheCon Asia, OpenInfra Days China, and COSCon, OSPO Summit, Dev Together Summit**, etc.
@@ -13,17 +13,17 @@
 
 🙋‍♀️ **My Day Job**
 
--   Head of Open Source Growth at [@AntGroup](https://github.com/antgroup)
--   Head of Growth and Ecosystem at [@Robbyant](https://github.com/robbyant)
+-   Head of Open Source Growth at [AntGroup](https://github.com/antgroup)
+-   Head of Growth and Ecosystem at [Robbyant](https://github.com/robbyant)
 
 
 🙋‍♀️ **My Community Roles**
 
--   Member of [Apache Software Foundation](https://github.com/apache)), Co-Chair of Community over Code - The ASF Conference Asia
+-   Member of [Apache Software Foundation](https://github.com/apache), Co-Chair of Community over Code - The ASF Conference Asia
 -   Member of Apache Local Community - Beijing & Hangzhou Chapter
 -   Co-founder of [Apache Answer](http://github.com/apache/answer)
 -   Member of China Computer Federation (CCF) Open-Source Committee, China Institute of Communications (CIC) Open-Source Committee and China Association for Science and Technology (CAST) Open Source Communication Working Committee
--   ex-COO of [@SegmentFault](https://github.com/segmentfault)
+-   ex-COO of [SegmentFault](https://github.com/segmentfault)
 
 
 🙋‍♀️ **My presentations / events**
