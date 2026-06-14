@@ -1,7 +1,7 @@
 👋 Hi, I’m @jiangbonadia, welcome to my zone.
 
 - 👩‍💻 I’m an open source enthusiast, **GitHub Star**. 
-- 👀 I’m interested in **community development** and **ogrowth**.
+- 👀 I’m interested in **community development** and **growth**.
 - 💃 I’m a part-time MBAer studying at Peking Universty & LSE.In my spare time, I enjoy dancing, ice-skating, and hiking.
 - 🌎 I currently base in China but travelling around the world.
 - 🎆 I am passionate about organizing various developer events. I am a core organizer of **ApacheCon Asia, OpenInfra Days China, and COSCon, OSPO Summit, Dev Together Summit**, etc.
